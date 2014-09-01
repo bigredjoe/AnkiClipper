@@ -3,6 +3,9 @@ AnkiClipper
 
 Sends text/HTML clipboard contents to Anki (the flashcard program). It lets you title your clipboard card and add tags. It is also cross-platform for Windows and Mac (using MonoMac).
 
+## Download Binaries
+[Windows / Mac](https://github.com/bigredjoe/AnkiClipper/blob/master/Binaries/AnkiClipper-Binaries.zip)
+
 ## Setup
 You will need [Anki](http://ankisrs.net/) installed and the [Run External Commands](https://ankiweb.net/shared/info/683760297) plugin installed.
 
