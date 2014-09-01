@@ -7,8 +7,8 @@
     <ProjectGuid>{1504F113-B2A9-4927-A335-AB9FD6015913}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>IncrementalReadingClipboard</RootNamespace>
-    <AssemblyName>IncrementalReadingClipboard</AssemblyName>
+    <RootNamespace>AnkiClipper</RootNamespace>
+    <AssemblyName>AnkiClipper</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnkiClipper.WinGui", "AnkiClipper.WinGui\AnkiClipper.WinGui.csproj", "{1504F113-B2A9-4927-A335-AB9FD6015913}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnkiClipper.Win", "AnkiClipper.Win\AnkiClipper.Win.csproj", "{1504F113-B2A9-4927-A335-AB9FD6015913}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnkiClipper.Core", "AnkiClipper.Core\AnkiClipper.Core.csproj", "{4354644C-67D4-467A-ABEC-F9FE242C57FA}"
 EndProject
