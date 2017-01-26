@@ -1,13 +1,28 @@
-﻿<Properties MonoDevelop.MonoMac.LastXamMacNagTime="9/1/2014 5:11:38 PM">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AnkiClipper.Mac/AppDelegate.cs">
+﻿<Properties MonoDevelop.MonoMac.LastXamMacNagTime="9/1/2014 5:11:38 PM" StartupConfiguration="{32FA21A2-1647-438C-9D60-EE053A3499B9}|Default">
+  <MonoDevelop.Ide.ItemProperties.AnkiClipper.Win PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnkiClipper.Mac/Clipboard.cs">
     <Files>
-      <File FileName="AnkiClipper.Core/AnkiComs.cs" Line="1" Column="1" />
-      <File FileName="AnkiClipper.Core/AnkiClipperWorker.cs" Line="1" Column="1" />
-      <File FileName="AnkiClipper.Mac/MainWindowController.cs" Line="58" Column="6" />
-      <File FileName="AnkiClipper.Mac/AppDelegate.cs" Line="21" Column="4" />
+      <File FileName="AnkiClipper.Core/AnkiComs.cs" Line="25" Column="3" />
+      <File FileName="AnkiClipper.Core/AnkiClipperWorker.cs" Line="38" Column="31" />
+      <File FileName="AnkiClipper.Mac/MainWindowController.cs" Line="54" Column="63" />
+      <File FileName="AnkiClipper.Mac/AppDelegate.cs" Line="16" Column="3" />
+      <File FileName="AnkiClipper.Mac/MainWindow.cs" Line="10" Column="53" />
+      <File FileName="AnkiClipper.Mac/Clipboard.cs" Line="18" Column="34" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AnkiClipper" expanded="True">
+            <Node name="AnkiClipper.Mac" expanded="True">
+              <Node name="Clipboard.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AnkiClipper.Mac PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/joseph/BitTorrent Sync/Developer/AnkiClipper/AnkiClipper.MacGui/MainWindowController.cs" line="17" column="1" />
@@ -25,7 +40,9 @@
       <Breakpoint file="/Users/joseph/BitTorrent Sync/Developer/AnkiClipper/AnkiClipper.MacGui/MainWindow.cs" line="27" column="1" />
       <Breakpoint file="/Users/joseph/BitTorrent Sync/Developer/AnkiClipper/AnkiClipper.MacGui/AppDelegate.cs" line="35" column="1" />
       <Breakpoint file="/Users/joseph/BitTorrent Sync/Developer/AnkiClipper/AnkiClipper.Mac/MainWindowController.cs" line="49" column="1" />
+      <Breakpoint file="/Users/joseph.doty/Documents/AnkiClipper/AnkiClipper.Mac/Clipboard.cs" relfile="AnkiClipper.Mac/Clipboard.cs" line="20" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>

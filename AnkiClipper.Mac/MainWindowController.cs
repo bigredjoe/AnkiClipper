@@ -54,6 +54,7 @@ namespace AnkiClipper.Mac
 				AnkiClipperWorker aWorker = new AnkiClipperWorker(new Clipboard(), new Alert());
 				answerText = txtAnswer.StringValue;
 				aWorker.WorkerSendToAnki(answerText);
+				var clipboard = new Clipboard();
 				Close();
 			};
 		}

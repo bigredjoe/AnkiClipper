@@ -10,11 +10,11 @@ namespace AnkiClipper.Mac
 	{
 		MainWindowController mainWindowController;
 
-		public AppDelegate ()
+		public AppDelegate()
 		{
 		}
 
-		public override void FinishedLaunching (NSObject notification)
+		public override void DidFinishLaunching(NSNotification notification)
 		{
 			mainWindowController = new MainWindowController ();
 			mainWindowController.Window.MakeKeyAndOrderFront (this);

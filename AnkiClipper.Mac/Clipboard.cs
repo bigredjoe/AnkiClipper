@@ -16,11 +16,14 @@ namespace AnkiClipper
 		public string GetClipboardContent()
 		{
 			string clipboardContents = "";
-			if (clipboard.GetStringForType ("public.html") != null) {
-				clipboardContents = clipboard.GetStringForType ("public.html");
+			if (clipboard.GetStringForType("public.html") != null)
+			{
+				clipboardContents = clipboard.GetStringForType("public.html");
 				CurrentType = "HTML";
-			} else if (clipboard.GetStringForType("NSStringPboardType") != null) {
-				clipboardContents = clipboard.GetStringForType ("NSStringPboardType");
+			}
+			else if (clipboard.GetStringForType("NSStringPboardType") != null)
+			{
+				clipboardContents = clipboard.GetStringForType("NSStringPboardType");
 				CurrentType = "Text";
 			}
 			return clipboardContents;
